@@ -8,3 +8,8 @@
 - Atalhos mais utilizados:
   - Command + Shift + L
   - Command + I
+
+
+TODO:
+- yaml para fazer deploy da LLM no OpenShift
+- Abrir VSCode com continue configurado
