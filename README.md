@@ -1,0 +1,3 @@
+- Install ollama
+- run `ollama run granite-code:8b`
+  - Source: https://ollama.com/library/granite-code:8b
