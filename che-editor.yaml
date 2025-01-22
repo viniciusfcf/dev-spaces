@@ -103,7 +103,7 @@ components:
     # Mandatory name that allows referencing the component from other elements
   - name: checode
     # (OPTIONAL) Allows specifying the definition of a volume shared by several other components. Ephemeral volumes are not stored persistently across restarts. Defaults to false
-    volume: {ephemeral: true}
+    volume: {}
 # (OPTIONAL) Bindings of commands to events. Each command is referred-to by its name
 events:
   # IDs of commands that should be executed before the devworkspace start. These commands would typically be executed in an init container
